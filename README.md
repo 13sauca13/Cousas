@@ -1,8 +1,10 @@
 # Cousas
-Mis enlaces:
+<p>Mis enlaces:</p>
 <br>
-<b><big>EEAE</big></b>
+<p><b><big>EEAE</big></b></p>
 <br>
-  <a href="http://www.criptored.upm.es/crypt4you/temas/criptografiaclasica/leccion1.html">Curso criptografia clasica</a>
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptored.upm.es/crypt4you/temas/criptografiaclasica/leccion1.html">Curso criptografia clasica</a>
   <br>
-  <a href="http://www.dma.fi.upm.es/recursos/aplicaciones/matematica_discreta/web/aritmetica_modular/criptografia.html">Aritmetica criptografica</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.dma.fi.upm.es/recursos/aplicaciones/matematica_discreta/web/aritmetica_modular/criptografia.html">Aritmetica criptografica</a>
+</p>
