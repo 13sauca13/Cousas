@@ -12,6 +12,6 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptohistoria.es/index.html">Criptohistoria</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptored.upm.es/descarga/CursoCriptografiaAplicada2018.pdf">Libro Curso de Criptografía Aplicada (Ramió Aguirre(Criptored), 2019)</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptored.upm.es/descarga/CursoCriptografiaAplicada2018.pdf">PDF: Curso de Criptografía Aplicada (Ramió Aguirre(Criptored), 2019)</a>
   <br>
 </p>
