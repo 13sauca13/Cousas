@@ -26,6 +26,6 @@
 </p>
 <p>&nbsp;&nbsp;<b><i>Innovacion</i></b></p>
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://exelearning.net/html_manual/exe20/">Manual eXeLearning 2.1<\a>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://exelearning.net/html_manual/exe20/">Manual eXeLearning 2.1</a>
   <br>
-<\p>
+</p>
