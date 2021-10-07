@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 <body>
   <p>Mis enlaces:</p>
   <br>
-  <i class="fas fa-file-pdf"></i>
-  <i class="fa fa-cloud"></i>
   <p><b><big>EEAE</big></b></p>
   <p>&nbsp;&nbsp;<b><i>Cifra</i></b></p>
   <p>
