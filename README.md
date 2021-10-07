@@ -12,6 +12,14 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptohistoria.es/index.html">Criptohistoria</a>
   <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.jproc.ca/">The webpages of Jerry Proc</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cryptomuseum.com/">Cryptomuseum</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ia.nato.int/NIAPC/">Equipos certificados OTAN</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.consilium.europa.eu/en/general-secretariat/corporate-policies/classified-information/information-assurance/">Equipos certificados UE</a>
+  <br>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptored.upm.es/descarga/CursoCriptografiaAplicada2018.pdf">PDF: Curso de Criptografía Aplicada (Ramió Aguirre(Criptored), 2019)</a>
   <br>
