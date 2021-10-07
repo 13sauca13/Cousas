@@ -7,6 +7,7 @@
   <p>Mis enlaces:</p>
   <br>
   <i class="fas fa-file-pdf"></i>
+  <i class="fa fa-cloud"></i>
   <p><b><big>EEAE</big></b></p>
   <p>&nbsp;&nbsp;<b><i>Cifra</i></b></p>
   <p>
