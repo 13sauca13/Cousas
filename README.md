@@ -20,6 +20,11 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLS3bi-JtNO3hanlIFTgfwClXATTSFeNh_">VIDEOS: Pildoras UPM sobre criptografia</a>
   <br>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.enigmaworldcodegroup.com/">SOFTWARE: Enigma World Code Group</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptored.upm.es/software/sw_m001c.htm">SOFTWARE: Criptoclasicos</a>
+  <br>
 </p>
 <p>&nbsp;&nbsp;<b><i>EW</i></b></p>
 <p>
