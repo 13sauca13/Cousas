@@ -1,7 +1,7 @@
 # Cousas
 <p>Mis enlaces:</p>
 <br>
-<i class="iconos/fas fa-file-pdf"></i>
+<i class="Iconos/fas fa-file-pdf"></i>
 <p><b><big>EEAE</big></b></p>
 <p>&nbsp;&nbsp;<b><i>Cifra</i></b></p>
 <p>
