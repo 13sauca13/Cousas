@@ -27,15 +27,21 @@
     <br>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptored.upm.es/descarga/CursoCriptografiaAplicada2018.pdf">PDF: Curso de Criptografía Aplicada (Ramió Aguirre(Criptored), 2019)</a>
     <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/513-ccn-stic-807-criptologia-de-empleo-en-el-ens/file.html">PDF: CCN-STIC 807: Criptologia en el ENS</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/513-ccn-stic-807-criptologia-de-empleo-en-el-ens/file.html">PDF: CCN-STIC 807: Criptologia en el ENS</a>
     <br>
     <br>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLS3bi-JtNO3hanlIFTgfwClXATTSFeNh_">VIDEOS: Pildoras UPM sobre criptografia</a>
     <br>
     <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.enigmaworldcodegroup.com/">SOFTWARE: Enigma World Code Group</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.enigmaworldcodegroup.com/">SOFTWARE: Enigma World Code Group</a>
     <br>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptored.upm.es/software/sw_m001c.htm">SOFTWARE: Criptoclasicos</a>
+    <br>
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Revisando actualmente</i></b></p>
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joseluistabaracarbajo.gitbooks.io/criptografia-clasica/content/index.html">Criptografia clasica GitBooks</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.revista.unam.mx/vol.7/num7/art55/jul_art55.pdf">Introduccion a la criptografia</a>
     <br>
   </p>
   <p>&nbsp;&nbsp;<b><i>EW</i></b></p>
