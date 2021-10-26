@@ -38,7 +38,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptored.upm.es/software/sw_m001c.htm">SOFTWARE: Criptoclasicos</a>
     <br>
     <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Revisando actualmente</i></b></p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Revisando actualmente</i></b>
     <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joseluistabaracarbajo.gitbooks.io/criptografia-clasica/content/index.html">Criptografia clasica GitBooks</a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.revista.unam.mx/vol.7/num7/art55/jul_art55.pdf">Introduccion a la criptografia</a>
