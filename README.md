@@ -51,5 +51,7 @@
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://exelearning.net/html_manual/exe20/">Manual eXeLearning 2.1</a>
     <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://text2gift.atwebpages.com/Text2GiftConverter.html>Moodle test creator Online</a>
+    <br>
   </p>
 </body>
