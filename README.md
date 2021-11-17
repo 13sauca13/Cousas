@@ -54,4 +54,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://text2gift.atwebpages.com/Text2GiftConverter.html">Moodle test creator Online</a>
     <br>
   </p>
+  <p>&nbsp;&nbsp;<b><i>Recursos genericos</i></b></p>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.pngwing.com/es">Descarga gratuita de imagenes png transparentes</a>
+    <br>
+  </p>
 </body>
