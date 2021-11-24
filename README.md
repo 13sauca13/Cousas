@@ -46,6 +46,7 @@
   </p>
   <p>&nbsp;&nbsp;<b><i>EW</i></b></p>
   <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.compadre.org/books/Ondas">Ondas: Tutorial interactivo</a>
   </p>
   <p>&nbsp;&nbsp;<b><i>Innovacion</i></b></p>
   <p>
