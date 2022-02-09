@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <p><b><big><big>Mis enlaces:</big></big><b></p>
+  <p><b><big>Mis enlaces:</big><b></p>
   <br>
   <p><b><big>EEAE</big></b></p>
   <p>&nbsp;&nbsp;<b><i>Cifra</i></b></p>
