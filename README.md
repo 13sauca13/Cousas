@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <p>Mis enlaces:</p>
+  <p><b><big><big>Mis enlaces:</big></big><b></p>
   <br>
   <p><b><big>EEAE</big></b></p>
   <p>&nbsp;&nbsp;<b><i>Cifra</i></b></p>
@@ -59,5 +59,6 @@
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.pngwing.com/es">Descarga gratuita de imagenes png transparentes</a>
     <br>
+     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://archive.org/details/win7ultsp1superlitex64">Tiny Windows 7 x64</a>
   </p>
 </body>
