@@ -47,6 +47,7 @@
   <p>&nbsp;&nbsp;<b><i>EW</i></b></p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.compadre.org/books/Ondas">Ondas: Tutorial interactivo</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sa6mwa/miscellaneous/blob/master/calculators/take-off-angle-in-bc.md">TOA Calculator</a>
   </p>
   <p>&nbsp;&nbsp;<b><i>Innovacion</i></b></p>
   <p>
