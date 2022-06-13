@@ -47,11 +47,14 @@
   <p>&nbsp;&nbsp;<b><i>EW</i></b></p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.compadre.org/books/Ondas">Ondas: Tutorial interactivo</a>
+    <br>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sa6mwa/miscellaneous/blob/master/calculators/take-off-angle-in-bc.md">TOA Calculator</a>
+    <br>
   </p>
   <p>&nbsp;&nbsp;<b><i>Seguridad Electromagnética</i></b></p>
   <p>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://industria.gob.es/Calidad-Industrial/seguridadindustrial/productosindustriales/Compatibilidad-Electromagnetica/Paginas/index.aspx">Compatibilidad electromagnética (Ministerio de Industria)</a>
+    <br>
   </p>
     <p>&nbsp;&nbsp;<b><i>Innovacion</i></b></p>
   <p>
