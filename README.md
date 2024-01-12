@@ -73,6 +73,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.pngwing.com/es">Descarga gratuita de imagenes png transparentes</a>
     <br>
      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://archive.org/details/win7ultsp1superlitex64">Tiny Windows 7 x64</a>
+    <br>
+     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://archive.org/details/tiny11-2311">Tiny Windows 11 2023</a>
   </p>
   <br>  
   <p><b><big>MEU</big></b></p>
