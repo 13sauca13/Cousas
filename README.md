@@ -30,7 +30,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.consilium.europa.eu/en/general-secretariat/corporate-policies/classified-information/information-assurance/">Equipos certificados UE</a>
     <br>
     <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.criptored.upm.es/descarga/CursoCriptografiaAplicada2018.pdf">PDF: Curso de Criptografía Aplicada (Ramió Aguirre(Criptored), 2019)</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.criptored.es/descarga/CursoCriptografiaAplicada2018.pdf">PDF: Curso de Criptografía Aplicada (Ramió Aguirre(Criptored), 2019)</a>
     <br>
     &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ccn-cert.cni.es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/513-ccn-stic-807-criptologia-de-empleo-en-el-ens/file.html">PDF: CCN-STIC 807: Criptologia en el ENS</a>
     <br>
