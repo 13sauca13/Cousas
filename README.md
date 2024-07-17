@@ -42,7 +42,6 @@
 + [Tiny Windows 7 x64](https://archive.org/details/win7ultsp1superlitex64)
 + [Tiny Windows 11 2023](https://archive.org/details/tiny11-2311)
 
-https://youtu.be/tRZGeaHPoaw?si=6dij5rdFOUnOrirT
 ## MEU
 + [RUNNING la gran obsesión](https://www.youtube.com/watch?v=H6Vvy5Z3_WE)
 + [Documental Km 0](https://www.youtube.com/watch?v=v4WTTw3QECA)
